@@ -1,0 +1,68 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: none;
+}
+
+.custom-button {
+    width: 170px;
+    padding: 15px;
+    color: white;
+    border-radius: 50px;
+    background-color: #1F2732;
+}
+
+.explore-img {
+    max-width: 600px;
+    border-radius: 20px;
+
+}
+
+.first-about {
+    background: #FFEDED80;
+}
+
+.footer {
+    background-color: #790C11;
+    color: white;
+}
+
+.login-components {
+    background: #1F2732;
+    color: white;
+}
+
+.floatingInput {
+    color: white;
+}
+
+.container {
+    color: white;
+}
+
+.bton-l {
+    color: white;
+}
+
+.footer {
+    background-color: #790C11;
+    color: white;
+}
+
+.continer {
+
+    position: absolute;
+    width: 100%;
+
+    border-radius: 20px;
+
+}
+
+.g {
+    background-color: black;
+}
